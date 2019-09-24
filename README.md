@@ -22,7 +22,15 @@ https://pastebin.com/JaSNC1dM
 
 Standardized color keys help considerably.
 
+### fl-bay
 
+Bay County, Fla.
+
+Pulled: September 2019
+
+Origin: Evacuation Zones dataset, http://data-baycountygis.opendata.arcgis.com/datasets/evacuation-zones
+
+https://drive.google.com/open?id=1YtoldYnbQKLLZxIO8lou0-FpnM8ZWJDF&usp=sharing
 
 
 ### fl-duval
@@ -103,3 +111,18 @@ Pulled: September 2019
 Origin: EvacZones dataset from http://maps.vcgov.org/gis/download/shapes.htm
 
 https://www.google.com/maps/d/u/0/edit?mid=1l2WqMQvmehrxcbSkqGah1hSNWIITyaHY&ll=29.158760341415245%2C-80.9948695021863&z=11
+
+### fl-walton
+
+Walton County, Fla.
+
+Pulled: September 2019
+
+Origin: Records request (may go online later)
+
+https://drive.google.com/open?id=1YtoldYnbQKLLZxIO8lou0-FpnM8ZWJDF&usp=sharing
+
+### Counties without hurricane evacuation zones
+
+Washington County, Fla. as of September 2019
+
