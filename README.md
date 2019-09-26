@@ -65,6 +65,20 @@ Origin: Pulled from Evacuation Levels dataset, https://public-manateegis.opendat
 
 https://www.google.com/maps/d/edit?mid=1Oh5pdmrvpIsZ8jsCHatAD9H7QNL3cEqB&ll=27.395186380366894%2C-82.53387658362345&z=11
 
+
+### fl-okaloosa
+
+Okaloosa County, Fla.
+
+Pulled: September 2019
+
+Origin: Records request
+
+https://www.google.com/maps/d/edit?mid=1YtoldYnbQKLLZxIO8lou0-FpnM8ZWJDF&ll=30.14957775996601%2C-86.24752596384701&z=10
+
+Note: Significant chunks of what would be evacuation zones are missing from the county map -- uninhabited park/beach areas and multiple large federal properties, including an Air Force base and a related airfield.
+
+
 ### fl-palmbeach
 
 Palm Beach County, Fla.
