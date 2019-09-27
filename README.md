@@ -90,6 +90,19 @@ Origin: Pulled from Evacuation_Areas_2012 dataset, http://maps.co.palm-beach.fl.
 https://www.google.com/maps/d/u/0/edit?mid=166Ew7mzl0s2Oi-2pfKE6q2RYmLmFcAbX&ll=26.645304193166602%2C-80.458508&z=10
 
 
+### fl-santarosa
+
+Santa Rosa, Fla.
+
+Pulled: September 2019
+
+Origin: Records request
+
+https://drive.google.com/open?id=1YtoldYnbQKLLZxIO8lou0-FpnM8ZWJDF&usp=sharing
+
+Note: Some weird geometry problems, like polys of 0 sqft. Had to calculate $area in QGIS; kill features under 300sq ft; add 5 feet of buffer; simplify by 22 feet; dissolve by EVAC; export to 4326.
+
+
 ### fl-sarasota
 
 Sarasota County, Fla.
