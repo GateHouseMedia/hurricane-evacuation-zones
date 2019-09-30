@@ -44,6 +44,19 @@ Origin: Records request and money order.
 https://www.google.com/maps/d/u/0/edit?mid=17uCI1TAbhGNI5XqZtpJlzy5FF4uxJ5yr&ll=30.108910654905152%2C-81.45540122359341&z=10
 
 
+### fl-escambia
+
+Escambia County, Fla.
+
+Pulled: September 2019
+
+Origin: Records request
+
+https://drive.google.com/open?id=1YtoldYnbQKLLZxIO8lou0-FpnM8ZWJDF&usp=sharing
+
+Notes: Most places have evacuation zones as distinct objects. Here, evacuation zones were released cumulatively, e.g., Zone C included what was actually zone C, plus Zones B and A. So the first step was to find the difference, e.g., the real C is the difference between source C and source B. On top of that there were some squirrelly geographies. The initial layers had to be buffered at 0 feet for QGIS to work with 'em. The composited layers still wouldn't work unless I added a buffer of 10 feet. And simplification was set at 42 feet.
+
+
 ### fl-flagler
 
 Flagler County, Fla.
@@ -92,7 +105,7 @@ https://www.google.com/maps/d/u/0/edit?mid=166Ew7mzl0s2Oi-2pfKE6q2RYmLmFcAbX&ll=
 
 ### fl-santarosa
 
-Santa Rosa, Fla.
+Santa Rosa County, Fla.
 
 Pulled: September 2019
 
